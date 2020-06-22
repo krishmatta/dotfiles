@@ -1,0 +1,2 @@
+PATH DEFAULT=${PATH}:@{HOME}/.local/bin
+XBPS_DISTDIR=@{HOME}/.local/opt
